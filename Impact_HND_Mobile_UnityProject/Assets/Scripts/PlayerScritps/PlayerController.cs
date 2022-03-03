@@ -133,6 +133,7 @@ namespace PlanetRunner
 						{
 							DoJump = false;
 							DoDoubleJump = false;
+							anim.SetBool("IsJumping", false);
 						}
 					}
 
@@ -145,6 +146,7 @@ namespace PlanetRunner
 					if (Input.GetButtonDown("Jump"))
 					{
 						doJumpButtonClicked = true;
+						anim.SetBool("IsJumping", true);
 					}
 
 					// Touch-Input
