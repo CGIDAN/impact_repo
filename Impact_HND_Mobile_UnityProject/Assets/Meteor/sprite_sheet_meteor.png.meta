@@ -1,0 +1,846 @@
+fileFormatVersion: 2
+guid: b11ee764968ba9c4ba97ab720eccc66b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1094568732736261262
+    second: sprite_sheet_meteor_0
+  - first:
+      213: -1868920433282322774
+    second: sprite_sheet_meteor_1
+  - first:
+      213: -6495098396877634200
+    second: sprite_sheet_meteor_2
+  - first:
+      213: 649243344809377807
+    second: sprite_sheet_meteor_3
+  - first:
+      213: 2806386185566159054
+    second: sprite_sheet_meteor_4
+  - first:
+      213: 5012088764837246896
+    second: sprite_sheet_meteor_5
+  - first:
+      213: -1249922140169075764
+    second: sprite_sheet_meteor_6
+  - first:
+      213: -1731565327375079718
+    second: sprite_sheet_meteor_7
+  - first:
+      213: -1137756032153704184
+    second: sprite_sheet_meteor_8
+  - first:
+      213: -6713365779928048286
+    second: sprite_sheet_meteor_9
+  - first:
+      213: 5866010812540771701
+    second: sprite_sheet_meteor_10
+  - first:
+      213: -2955185647425443440
+    second: sprite_sheet_meteor_11
+  - first:
+      213: 6330211790582135082
+    second: sprite_sheet_meteor_12
+  - first:
+      213: -3736790456384473619
+    second: sprite_sheet_meteor_13
+  - first:
+      213: 531868316157473215
+    second: sprite_sheet_meteor_14
+  - first:
+      213: -7992610425461331695
+    second: sprite_sheet_meteor_15
+  - first:
+      213: -7271029628531792543
+    second: sprite_sheet_meteor_16
+  - first:
+      213: 3628991496882402416
+    second: sprite_sheet_meteor_17
+  - first:
+      213: -1867829911980906312
+    second: sprite_sheet_meteor_18
+  - first:
+      213: -8513262456811272297
+    second: sprite_sheet_meteor_19
+  - first:
+      213: -6778365881764593583
+    second: sprite_sheet_meteor_20
+  - first:
+      213: 37477920549015499
+    second: sprite_sheet_meteor_21
+  - first:
+      213: 7604807263860271412
+    second: sprite_sheet_meteor_22
+  - first:
+      213: -1354672143315607894
+    second: sprite_sheet_meteor_23
+  - first:
+      213: -8934884559580619160
+    second: sprite_sheet_meteor_24
+  - first:
+      213: -1064416528887140427
+    second: sprite_sheet_meteor_25
+  - first:
+      213: 1059784043395682835
+    second: sprite_sheet_meteor_26
+  - first:
+      213: -7621025741801804809
+    second: sprite_sheet_meteor_27
+  - first:
+      213: 3099625961723444543
+    second: sprite_sheet_meteor_28
+  - first:
+      213: -8133045023287145796
+    second: sprite_sheet_meteor_29
+  - first:
+      213: -3717405809841086898
+    second: sprite_sheet_meteor_30
+  - first:
+      213: -141231246911246522
+    second: sprite_sheet_meteor_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1067
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c8ef09670b03f00800000000000000
+      internalID: 1094568732736261262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1070
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeecb494c24016e0800000000000000
+      internalID: -1868920433282322774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1070
+        width: 89
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86546e8ab66ccd5a0800000000000000
+      internalID: -6495098396877634200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_3
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1070
+        width: 89
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00462cd163920900800000000000000
+      internalID: 649243344809377807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1070
+        width: 89
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec00c3ded5942f620800000000000000
+      internalID: 2806386185566159054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 870
+        width: 87
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7b9da2d248e8540800000000000000
+      internalID: 5012088764837246896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 868
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc383569f6267aee0800000000000000
+      internalID: -1249922140169075764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 868
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ec6c428e38f7e0800000000000000
+      internalID: -1731565327375079718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 868
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ab66bae0e530f0800000000000000
+      internalID: -1137756032153704184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_9
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 867
+        width: 87
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1020646555d2a0800000000000000
+      internalID: -6713365779928048286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 667
+        width: 87
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd71a21c1486150800000000000000
+      internalID: 5866010812540771701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 666
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2933aaa51e69d750800000000000000
+      internalID: 6330211790582135082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_13
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 667
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de53227d0e0442cc0800000000000000
+      internalID: -3736790456384473619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 667
+        width: 83
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1f9d36a63916700800000000000000
+      internalID: 531868316157473215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_15
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 667
+        width: 81
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1192b4a2a2b841190800000000000000
+      internalID: -7992610425461331695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 467
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a500931d181b90800000000000000
+      internalID: -7271029628531792543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 467
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b6980a84cc5230800000000000000
+      internalID: 3628991496882402416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_18
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 467
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8678b57922416e0800000000000000
+      internalID: -1867829911980906312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_19
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 467
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797481696e0dad980800000000000000
+      internalID: -8513262456811272297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 467
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504bc3d4286ee1a0800000000000000
+      internalID: -6778365881764593583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 267
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8e3d58f5258000800000000000000
+      internalID: 37477920549015499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 267
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439a3bb1ae3b98960800000000000000
+      internalID: 7604807263860271412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_23
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 269
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae5e8eecdc333de0800000000000000
+      internalID: -1354672143315607894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_24
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 267
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e131505d9e00480800000000000000
+      internalID: -8934884559580619160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_25
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 267
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa0a67ece6a31f0800000000000000
+      internalID: -1064416528887140427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 67
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121a35f8fb15be00800000000000000
+      internalID: 1059784043395682835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 79
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbabcb377dac3690800000000000000
+      internalID: -7621025741801804809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 67
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba06bc54ae912f80800000000000000
+      internalID: -8133045023287145796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_30
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 68
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed2729c1f196cc0800000000000000
+      internalID: -3717405809841086898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet_meteor_31
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 68
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f6ba0edee3a0ef0800000000000000
+      internalID: -141231246911246522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
