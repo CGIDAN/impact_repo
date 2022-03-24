@@ -9,7 +9,6 @@ namespace PlanetRunner
         private float length, startpos;
         public GameObject cam;
         public float parallaxEffect;
-        float smooth = 5.0f;
         float tiltAngle = 60.0f;
         private Transform player;
 
