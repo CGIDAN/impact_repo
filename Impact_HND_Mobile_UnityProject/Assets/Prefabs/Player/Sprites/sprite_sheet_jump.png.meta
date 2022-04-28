@@ -111,6 +111,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -808,6 +809,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sprite_sheet_jump_11: -3624826746642446679
+      sprite_sheet_jump_8: 7903016789834635932
+      sprite_sheet_jump_6: -671879773333469047
+      sprite_sheet_jump_13: -1751686403768754499
+      sprite_sheet_jump_7: 1841068611431157001
+      sprite_sheet_jump_21: 4891443504928522043
+      sprite_sheet_jump_24: -8067645492023937792
+      sprite_sheet_jump_19: -7607123253444037552
+      sprite_sheet_jump_15: -5391707186341867523
+      sprite_sheet_jump_16: 2034687688561006809
+      sprite_sheet_jump_26: 2877669497410104055
+      sprite_sheet_jump_0: 6917304714349882555
+      sprite_sheet_jump_9: -7081649539274492895
+      sprite_sheet_jump_28: 7779343205885022010
+      sprite_sheet_jump_1: -1094670752052724873
+      sprite_sheet_jump_2: 8032005040448963519
+      sprite_sheet_jump_17: -6092366953364306817
+      sprite_sheet_jump_14: 2603704072802081987
+      sprite_sheet_jump_18: 5165841623577225482
+      sprite_sheet_jump_27: 5811034515675685237
+      sprite_sheet_jump_10: -2652265623889590154
+      sprite_sheet_jump_23: -2824524430444755611
+      sprite_sheet_jump_5: 3723886506182338512
+      sprite_sheet_jump_25: 777378635542080797
+      sprite_sheet_jump_20: 6763216641689889695
+      sprite_sheet_jump_22: 870499457175180387
+      sprite_sheet_jump_12: 3218604993837028810
+      sprite_sheet_jump_3: 2156727782124083782
+      sprite_sheet_jump_4: -575269389061831370
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

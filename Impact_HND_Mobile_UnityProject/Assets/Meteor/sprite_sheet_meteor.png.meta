@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -838,6 +839,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sprite_sheet_meteor_5: 5012088764837246896
+      sprite_sheet_meteor_9: -6713365779928048286
+      sprite_sheet_meteor_17: 3628991496882402416
+      sprite_sheet_meteor_31: -141231246911246522
+      sprite_sheet_meteor_1: -1868920433282322774
+      sprite_sheet_meteor_6: -1249922140169075764
+      sprite_sheet_meteor_25: -1064416528887140427
+      sprite_sheet_meteor_26: 1059784043395682835
+      sprite_sheet_meteor_7: -1731565327375079718
+      sprite_sheet_meteor_3: 649243344809377807
+      sprite_sheet_meteor_8: -1137756032153704184
+      sprite_sheet_meteor_18: -1867829911980906312
+      sprite_sheet_meteor_2: -6495098396877634200
+      sprite_sheet_meteor_15: -7992610425461331695
+      sprite_sheet_meteor_16: -7271029628531792543
+      sprite_sheet_meteor_24: -8934884559580619160
+      sprite_sheet_meteor_30: -3717405809841086898
+      sprite_sheet_meteor_10: 5866010812540771701
+      sprite_sheet_meteor_4: 2806386185566159054
+      sprite_sheet_meteor_23: -1354672143315607894
+      sprite_sheet_meteor_13: -3736790456384473619
+      sprite_sheet_meteor_27: -7621025741801804809
+      sprite_sheet_meteor_0: 1094568732736261262
+      sprite_sheet_meteor_29: -8133045023287145796
+      sprite_sheet_meteor_12: 6330211790582135082
+      sprite_sheet_meteor_14: 531868316157473215
+      sprite_sheet_meteor_22: 7604807263860271412
+      sprite_sheet_meteor_20: -6778365881764593583
+      sprite_sheet_meteor_21: 37477920549015499
+      sprite_sheet_meteor_19: -8513262456811272297
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
