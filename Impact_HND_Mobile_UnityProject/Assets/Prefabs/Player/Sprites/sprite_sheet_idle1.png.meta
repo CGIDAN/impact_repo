@@ -114,7 +114,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -833,37 +832,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      sprite_sheet_idle1_1: -6497640884973765784
-      sprite_sheet_idle1_7: 4768109090517427462
-      sprite_sheet_idle1_14: -8059931327627005342
-      sprite_sheet_idle1_26: -261643705840526498
-      sprite_sheet_idle1_4: -8471289980833614578
-      sprite_sheet_idle1_8: -216817182905109909
-      sprite_sheet_idle1_3: -4675957875596941435
-      sprite_sheet_idle1_20: 668044659299997220
-      sprite_sheet_idle1_22: -1446589095888925674
-      sprite_sheet_idle1_2: -5009564352125007235
-      sprite_sheet_idle1_21: -3280010564670623189
-      sprite_sheet_idle1_29: 8652797997491382859
-      sprite_sheet_idle1_17: -8537840923642332296
-      sprite_sheet_idle1_12: -7019705023812841422
-      sprite_sheet_idle1_24: -6769077628393437995
-      sprite_sheet_idle1_28: 1894433837846089543
-      sprite_sheet_idle1_0: 4428591241687689506
-      sprite_sheet_idle1_9: 7106989590812576850
-      sprite_sheet_idle1_25: 7532734165802689256
-      sprite_sheet_idle1_19: -2003558886811135080
-      sprite_sheet_idle1_16: 4203508552178252997
-      sprite_sheet_idle1_15: 2924120746271948627
-      sprite_sheet_idle1_23: -7921366119782969561
-      sprite_sheet_idle1_13: -3820849211700562801
-      sprite_sheet_idle1_27: 806364233347941613
-      sprite_sheet_idle1_18: -9187379780509296932
-      sprite_sheet_idle1_5: 4303185597456342606
-      sprite_sheet_idle1_10: 4228383894960624923
-      sprite_sheet_idle1_6: -3951651129718529207
-      sprite_sheet_idle1_11: 1574340429568200245
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
