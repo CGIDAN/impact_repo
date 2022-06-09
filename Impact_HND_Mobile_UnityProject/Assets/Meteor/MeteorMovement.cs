@@ -11,10 +11,4 @@ public class MeteorMovement : MonoBehaviour
     {
         transform.position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
     }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        // this for explosion later! Instantiate(explosion,transform.position,transform.rotation);
-        Destroy(this.gameObject);
-    }
 }
