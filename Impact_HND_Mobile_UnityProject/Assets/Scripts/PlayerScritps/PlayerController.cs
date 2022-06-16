@@ -53,6 +53,10 @@ namespace PlanetRunner
 
 		private GameController gameController;
 
+		// Movement Variables
+		private Vector3 right;
+		private Vector3 targetVelocity;
+
 
 		void Awake()
 		{
@@ -229,9 +233,8 @@ namespace PlanetRunner
 						{
 							// Calculate how fast we should be moving
 							Vector3 forward = Vector3.Cross(transform.up, -LookTransform.right).normalized;
-							Vector3 right = Vector3.Cross(transform.up, LookTransform.forward).normalized;
+							right = Vector3.Cross(transform.up, LookTransform.forward).normalized;
 
-							Vector3 targetVelocity;
 
 							if (EnableAutoMove)
 							{
@@ -260,7 +263,8 @@ namespace PlanetRunner
 							}
 							else
 							{
-								targetVelocity = (forward * Input.GetAxis("Vertical") + right * Input.GetAxis("Horizontal")) * speed;
+								//targetVelocity = (forward * Input.GetAxis("Vertical") + right * Input.GetAxis("Horizontal")) * speed;
+
 							}
 
 							Vector3 velocity = transform.InverseTransformDirection(GetComponent<Rigidbody2D>().velocity);
@@ -318,6 +322,9 @@ namespace PlanetRunner
 					anim.SetFloat(Const.SPEED, 0.0f);
 				}
 			}
+
+
+			targetVelocity = (right * Input.GetAxis("Horizontal")) * speed;
 		}
 
 
@@ -360,6 +367,24 @@ namespace PlanetRunner
 		public void SetLookTransform(Transform lookTransform)
 		{
 			this.LookTransform = lookTransform;
+		}
+
+		public void MoveLeft()
+		{
+			targetVelocity = (right * -1.0f) * speed;
+			if (facingRight)
+			{
+				Flip();
+			}
+		}
+
+		public void MoveRight()
+		{
+			targetVelocity = (right * 1.0f) * speed;
+			if (!facingRight)
+			{
+				Flip();
+			}
 		}
 	}
 }
