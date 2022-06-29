@@ -167,7 +167,7 @@ namespace PlanetRunner
 							}
 						}
 					}
-
+					/*
 					// The Jump-Button is clicked
 					if (doJumpButtonClicked)
 					{
@@ -192,7 +192,7 @@ namespace PlanetRunner
 							}
 						}
 					}
-
+					*/
 					bool doAlignIt = true;
 
 					if (EnableDoubleJump && DoDoubleJump)
